@@ -1,2 +1,4 @@
 # Cours_SGBD_PYTHON_Master1_IAE_METZ
 Ceci est le repository pour les étudiants IAE Metz 2026
+
+Vendredi 10 Avril ^^
